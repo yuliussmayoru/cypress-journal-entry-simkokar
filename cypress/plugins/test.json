@@ -1,0 +1,33 @@
+[
+    {
+        "reference": "PYLTR/00/BKS-CAFE-01/2024082209669",
+        "date": "09/10/2024",
+        "description": "TRANSAKSI PAYLATER",
+        "account": [{
+            "account1": "PIUTANG CAFE BEKASI",
+            "account2": "PENDAPATAN CAFE BEKASI",
+            "account3": "PPN KELUARAN"
+        }],
+        "debit": [{
+            "debit1": 89058,
+            "debit2": 0,
+            "debit3": 0
+        }],
+        "credit": [{
+            "credit1": 0,
+            "credit2": 80962,
+            "credit3": 8096
+        }],
+        "source": [{
+            "source1": "PIUTANG CAFE BEKASI",
+            "source2": "PENDAPATAN CAFE BEKASI",
+            "source3": "PPN KELUARAN"
+        }],
+        "memo": [{
+            "memo1": "PIUTANG CAFE BEKASI",
+            "memo2": "PENDAPATAN CAFE BEKASI",
+            "memo3": "PPN KELUARAN"
+        }]
+
+    }
+]

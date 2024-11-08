@@ -1,0 +1,29 @@
+# Cypress specific
+cypress/videos/
+cypress/screenshots/
+
+# Cypress configuration files
+cypress.env.json
+cypress.json
+
+# Node modules
+node_modules/
+
+# Logs and temporary files
+*.log
+.DS_Store
+*.tmp
+
+# IDE-specific files (optional, for common IDEs)
+.vscode/
+.idea/
+*.sublime*
+
+# Environment and build files
+.env
+.env.local
+.env.*.local
+dist/
+# Ignore temporary files created by programs
+~$*
+

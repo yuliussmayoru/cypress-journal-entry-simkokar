@@ -1,0 +1,19 @@
+{
+  "name": "journal-cypress",
+  "version": "1.0.0",
+  "description": "SIMKOKAR journal entry testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "Yulius safitra Mayoru",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.1",
+    "cypress-fs": "^0.2.6",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
